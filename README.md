@@ -4,4 +4,6 @@ I now use [@WilderLinDev](https://github.com/WilderLinDev) for my projects and o
 
 This account is no longer actively used.
 
+Personal website: [wilderlin.com](https://wilderlin.com/).
+
 SBTI has moved to [WilderLinDev/sbti-test](https://github.com/WilderLinDev/sbti-test).
